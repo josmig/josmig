@@ -14,10 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miguepantigoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miguepantigoso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miguel pantigoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel pantigoso" height="30" width="40" /></a>
-<a href="https://fb.com/miguel pantigoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miguel pantigoso" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miguelpantigoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel pantigoso" height="30" width="40" /></a>
 <a href="https://dribbble.com/josmig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="josmig" height="30" width="40" /></a>
-<a href="https://www.behance.net/miguel pantigoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="miguel pantigoso" height="30" width="40" /></a>
+<a href="https://www.behance.net/miguel_pantigoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="miguel_pantigoso" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
